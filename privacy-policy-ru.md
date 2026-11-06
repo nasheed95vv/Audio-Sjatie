@@ -1,12 +1,5 @@
-<!doctype html>
-<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Политика конфиденциальности — Сжатие аудио</title><style>body{font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.55;color:#1a1c22;background:#fff;margin:0;padding:16px 18px 40px;max-width:820px;margin-left:auto;margin-right:auto}
-h1{font-size:1.5rem;margin:.2em 0 .1em}h2{font-size:1.1rem;margin:1.6em 0 .4em;color:#1d3fb8}
-p,li{font-size:.96rem}ul{padding-left:1.2em}.meta{color:#5b6070;font-size:.9rem}
-table{border-collapse:collapse;width:100%;margin:.6em 0;font-size:.9rem}th,td{border:1px solid #d6d9e3;padding:6px 8px;text-align:left;vertical-align:top}th{background:#f1f3f9}
-.ph{background:#fff3b0;padding:0 3px;border-radius:3px}a{color:#2a55d6;word-break:break-word}.lang{margin:.5em 0 1.4em}</style></head><body>
-<h1>Политика конфиденциальности</h1>
-<p class="meta">Приложение: «Сжатие аудио» (Audio Compressor), пакет <code>com.audiocompressor.studiaislam</code>.<br>
+Политика конфиденциальности — Сжатие аудио
+Приложение: «Сжатие аудио» (Audio Compressor), пакет <code>com.audiocompressor.studiaislam</code>.<br>
 Разработчик: <b>Studia Islam</b> («мы», «разработчик»).<br>Дата вступления в силу: 28 октября 2026 г.</p>
 
 <p>Эта политика объясняет, какие данные обрабатывает приложение «Сжатие аудио», зачем и какие у вас есть права. Устанавливая и используя приложение, вы соглашаетесь с политикой. Если вы не согласны — не используйте приложение.</p>
@@ -66,5 +59,5 @@ table{border-collapse:collapse;width:100%;margin:.6em 0;font-size:.9rem}th,td{bo
 <p>Мы можем обновлять политику. Актуальная версия всегда доступна в приложении («Настройки → Политика конфиденциальности») и на странице публикации; дата в начале документа показывает последнее обновление. При существенных изменениях мы дополнительно уведомим вас в описании обновления приложения.</p>
 
 <h2>11. Контакты</h2>
-<p>Разработчик: Studia Islam<br>E-mail: <span class="ph">[УКАЖИТЕ ВАШ E-MAIL]</span></p>
+<p>Разработчик: Studia Islam<br>E-mail: <span class="ph">ra1111vvhh@gmail.com</span></p>
 </body></html>
